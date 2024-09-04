@@ -35,7 +35,7 @@ System.out.println("The sum is " + sumOfAll);
 
 
 //compuet average and store in 6
-double averageScore = sumOfAll / 4;
+double averageScore = (double)sumOfAll / 4;
 
 //print
 System.out.println("The average is " + averageScore);
